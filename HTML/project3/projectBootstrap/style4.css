@@ -1,0 +1,11 @@
+.btn-primary{
+    background-color: brown;
+}
+.btn-primary:hover{
+    background-color: #9999;
+}
+img{
+    width:"40%"; 
+    height:"40%";
+    margin-top: 20px;
+}

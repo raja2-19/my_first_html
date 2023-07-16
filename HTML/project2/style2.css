@@ -1,0 +1,7 @@
+.boxmodel{
+    border:6px solid purple;
+    color:blue;
+    display: inline-block;
+    padding:20px 20px; 
+    margin:0px 20px ;
+}

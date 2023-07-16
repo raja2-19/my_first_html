@@ -1,0 +1,35 @@
+body{
+    margin:0px;
+}
+
+
+img{
+    width:450px;
+    height:350px;
+    margin:10px;
+    transition: all 0.5s;
+}
+img:hover{
+    transform: scale(1.1);
+}
+h1{
+    font-family: Georgia;
+    font-size: 30px;
+    border-bottom: 2px solid rgb(13, 247, 13);
+    border-right: 2px solid rgb(13, 247, 13);
+    width:300px;
+    text-align: center;
+    box-shadow: 4px 4px 5px #888888;
+    margin-top: 19px;
+}
+.picture{
+    display:flex;
+     flex-wrap:wrap;
+     justify-content: center;
+     
+/*      
+    flex-direction:row;
+    
+    align-items:center; */ 
+
+}

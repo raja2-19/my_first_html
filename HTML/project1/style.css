@@ -1,0 +1,19 @@
+h1{
+    color:#11073B;
+    border: 5px solid rgba(0, 0, 255,0.2);
+}
+p{
+    color:black;
+    font-size: 100%;
+    line-height: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+img{
+    float:right;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
